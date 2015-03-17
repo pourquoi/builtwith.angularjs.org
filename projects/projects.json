@@ -3668,7 +3668,23 @@
         "Responsive",
         "RESTful"
       ]
+    },
+    {
+      "name": "Suricat",
+      "thumb": "suricat/thumb.png",
+      "desc": "Suricat monitors your website uptime and load performances.",
+      "url": "https://suricat.io",
+      "submitter": "cdarylb",
+      "submissionDate": "2015-03-17",
+      "tags": [
+        "Production",
+        "Monitoring",
+        "Charts",
+        "D3.js",
+        "Bootstrap",
+        "InfluxDB",
+        "Socket.io"
+      ]
     }
-
   ]
 }
